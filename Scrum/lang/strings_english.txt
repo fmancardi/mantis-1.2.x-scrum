@@ -1,0 +1,17 @@
+<?php
+
+# Copyright (c) 2011 John Reese
+# Licensed under the MIT license
+
+$s_plugin_Scrum_ = '';
+$s_plugin_Scrum_title = 'Scrum';
+$s_plugin_Scrum_description = 'Scrum board based on status, priority, and target version';
+
+$s_plugin_Scrum_board = 'Scrum Board';
+$s_plugin_Scrum_all = 'All';
+
+$s_plugin_Scrum_time_weeks = ' weeks left';
+$s_plugin_Scrum_time_days = ' days left';
+$s_plugin_Scrum_time_hours = ' hours left';
+$s_plugin_Scrum_time_up = 'Sprint over';
+

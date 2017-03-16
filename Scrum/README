@@ -1,0 +1,9 @@
+This is a clone of work done by John Reese augmented with changes added by
+code4fun, present on http://fluffy.mantisbt.org/forums/viewtopic.php?f=4&t=20013.
+
+Idea is to add some improvements:
+
+1. configuration of issue statuses used on the Scrum Dashboard
+2. configuration of CUSTOM FIELD or standard field to be used to indicate Spring
+   (right now standard file Target version is used).
+3. more ideas to come   
